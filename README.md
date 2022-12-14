@@ -25,9 +25,15 @@ Lot of good stuff take from Redwood here, they have a generalized "functions" co
  - Describe in SDL first, then resolvers. Make extremely tight.
  - Built-in support for graphql connections 
 
+I need a better set of abstractions for functions which want to live next to the resolvers code, right now they get an `_` at the start, but there should be some sort of corresponding relations thing.
+
+##### Jobs
+
+Being able to spin up a second version of the API with the specific goal of doing long-run or cron tasks should be a native feature
+
 ##### Systems
 
-- Hooks for allowing side processes (type codegen for example)
+- Hooks for allowing side processes (type codegen for example) during dev
 
 ### Things to look into:
 
