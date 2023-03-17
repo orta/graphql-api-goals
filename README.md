@@ -13,8 +13,6 @@ Notes on what I'd like for a pretty ideal API framework. A year and a half into 
 - Deno would allow for better debugging, faster iteration and native TS
 - Node means keeping acccess to Jest and Wallaby
 
-Genuinely unsure here, and Prisma is currently node only
-
 ### Abstractions 
  
 Lot of good stuff take from Redwood here, they have a generalized "functions" concept, then a lot of extra work for making a main GraphQL API.
