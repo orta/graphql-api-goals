@@ -33,7 +33,7 @@ Being able to spin up a second version of the API with the specific goal of doin
 
 ##### Systems
 
-- Hooks for allowing side processes (type codegen for example) during dev
+- Hooks for allowing side processes (type codegen, relay for example) during dev
 - Keep auth as ACLs baked into the SDL
 
 ### Things to look into:
