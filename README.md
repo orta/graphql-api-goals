@@ -41,3 +41,4 @@ Being able to spin up a second version of the API with the specific goal of doin
 - [Grafast](https://www.youtube.com/watch?v=x0FMjL5-kNI) to try remove the amount of pre-guessing I do for includes on db queries
 - [GraphQXL](https://github.com/gabotechs/graphqxl)
 - [prisma in memory](https://github.com/demonsters/prisma-mock/)
+- [Grats](https://github.com/captbaritone/grats)
