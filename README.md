@@ -35,6 +35,11 @@ Being able to spin up a second version of the API with the specific goal of doin
 
 - Hooks for allowing side processes (type codegen, relay for example) during dev
 - Keep auth as ACLs baked into the SDL
+- Systems for running tasks
+- Hot reloading for servers?
+- Type generation
+- Trivial system for 
+
 
 ### Things to look into:
 - https://pothos-graphql.dev/docs/plugins/prisma
