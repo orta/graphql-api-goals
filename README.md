@@ -25,7 +25,9 @@ Lot of good stuff take from Redwood here, they have a generalized "functions" co
  - Be able to know how many unqiue back & forths between the API a request took
  - Even better if that is generic so I can do the samme for extrnal services I need to ping
 
-I need a better set of abstractions for functions which want to live next to the resolvers code, right now they get an `_` at the start, but there should be some sort of corresponding relations thing.
+##### Code Positioning
+
+- Need a formalized "lib" section, with linter rules if resolvers get too long
 
 ##### Jobs
 
