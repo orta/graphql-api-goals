@@ -28,6 +28,9 @@ Lot of good stuff take from Redwood here, they have a generalized "functions" co
 ##### Code Positioning
 
 - Need a formalized "lib" section, with linter rules if resolvers get too long
+ - Perhaps "scopes" e.g. "src/scope/leaderboard/archive.ts"
+
+Probably need a similar place for tasks code
 
 ##### Jobs
 
