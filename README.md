@@ -1,6 +1,8 @@
 # graphql-api-goals
 
-Notes on what I'd like for a pretty ideal API framework. A year and a half into Redwood, and I'm really happy with how it's been as a tool for getting ideas up & running, then migrating out when it's time for an abstraction to get more focus.
+Notes on what I'd like for a pretty ideal API framework. 2 years into Redwood, and I'm really happy with how it's been as a tool for getting ideas up & running, then migrating out when it's time for an abstraction to get more focus.
+
+Name: Burl?
 
 ### Codebase would be:
 
